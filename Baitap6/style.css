@@ -1,0 +1,12 @@
+.table{
+  margin-top: 50px;
+}
+.group__btn{
+  margin-top: 50px;
+}
+@media only screen and (max-width: 425px) {
+  .container{
+    margin: 0;
+    padding: 0;
+  }
+}
